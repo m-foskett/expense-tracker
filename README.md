@@ -11,7 +11,7 @@ This is an Expense Tracking application made using ASP.NET Core MVC, Syncfusion 
 
 ## :computer: Screenshots
 <div style="display: inline_block" align="center"><br>
-  <img alt="demo_usage" width="1200" src="/screenshots/demo_usage.gif"</img>
+  <img alt="demo_usage" width="1600" src="/screenshots/demo_usage.gif"</img>
 </div>
 
 ## :books: Tech-Stack
