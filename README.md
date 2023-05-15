@@ -10,16 +10,9 @@ This is an Expense Tracking application made using ASP.NET Core MVC, Syncfusion 
 - [Tech Stack](#books-tech-stack)
 
 ## :computer: Screenshots
-<!-- <div style="display: inline_block" align="center"><br>
-  <img alt="swiping" width="800" src="/assets/minting.gif"</img>
-</div> -->
-<!-- <div style="display: inline_block" align="center"><br>
- <img align="center" alt="Home Page"  width="400" src="/assets/home-page.PNG">
- <img align="center" alt="Collection Page"  width="400" src="/assets/collection-page.PNG">
+<div style="display: inline_block" align="center"><br>
+  <img alt="demo_usage" width="1200" src="/screenshots/demo_usage.gif"</img>
 </div>
-<div style="display: inline_block" align="center"><br> 
- <img align="center" alt="NFT Modal"  width="400" src="/assets/nft-modal-revealed.PNG">
-</div> -->
 
 ## :books: Tech-Stack
 Below is a non-exhaustive list of the technologies utilised within this project.
